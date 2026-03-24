@@ -5,8 +5,7 @@ Building tools for constraint-first AI architecture — starting with
 
 We focus on privacy-preserving, locally-run tools that can be used to analyze and optimize the compute requirements of large language models. We are in early development, but we are excited to share our work and collaborate with others in the space.
 
-## Compliance Center
-|![Static Badge](https://img.shields.io/badge/HTML-Privacy%20Policy-blue?style=plastic&link=https%3A%2F%2Fchkdsklabs.io%2Fprivacy) | ![Static Badge](https://img.shields.io/badge/HTML-Security%20Portal-blue?style=plastic&link=https%3A%2F%2Fsec.chkdsklabs.io) | ![Static Badge](https://img.shields.io/badge/HTML-Contributing%20Guidelines-blue?style=plastic&link=https%3A%2F%2Fchkdsklabs.io%2Fcontributing) |
+## 
 
 
 ## Projects
