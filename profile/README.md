@@ -12,7 +12,8 @@ We focus on privacy-preserving, locally-run tools that can be used to analyze an
 
 | Repo | Description | Status |
 |------|-------------|--------|
-| [L-BOM 💘](https://github.com/chkdsk-labs/l-bom) | LLM Bill of Materials Generator | 🚧 Early development |
+| [L-BOM 💘](https://github.com/chkdsklabs/l-bom) | LLM Bill of Materials Generator | 👍 Early development |
+| [GUI-BOM](https://github.com/chkdsklabs/gui-bom) | GUI Implmentation of L-BOM | 👍 Early development |
 
 ## Principles
 
