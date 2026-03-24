@@ -5,15 +5,18 @@ Building tools for constraint-first AI architecture — starting with
 
 We focus on privacy-preserving, locally-run tools that can be used to analyze and optimize the compute requirements of large language models. We are in early development, but we are excited to share our work and collaborate with others in the space.
 
-## 
-
-
-## Projects
+## Open Source Projects
 
 | Repo | Description | Status |
 |------|-------------|--------|
 | [L-BOM 💘](https://github.com/chkdsklabs/l-bom) | LLM Bill of Materials Generator | 👍 Early development |
 | [GUI-BOM](https://github.com/chkdsklabs/gui-bom) | GUI Implmentation of L-BOM | 👍 Early development |
+
+## Other Projects
+
+| Repo | Description | Status |
+|------|-------------|--------|
+| [Ridge Sight ⛰️](https://ridgesight.app) | Cross-Repo Pull Request Management Dashboard for GitHub | ✅ Production |
 
 ## Principles
 
