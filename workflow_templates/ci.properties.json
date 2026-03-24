@@ -1,0 +1,6 @@
+{
+  "name": "CHKDSK Labs CI",
+  "description": "Lint, type-check, and test on every push and PR.",
+  "iconName": "octicon workflow",
+  "categories": ["Python", "Testing"]
+}
