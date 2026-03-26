@@ -11,6 +11,7 @@ We focus on privacy-preserving, locally-run tools that can be used to analyze an
 |------|-------------|--------|
 | [L-BOM 💘](https://github.com/chkdsklabs/l-bom) | LLM Bill of Materials Generator | v0.2.0 |
 | [GUI-BOM](https://github.com/chkdsklabs/gui-bom) | GUI Implmentation of L-BOM | v0.2.0 |
+| [HissCheck 🐍](https://github.com/CHKDSKLabs/hisscheck) | AI Powered Python Testing Validation | v0.1.0 |
 
 ## Other Projects
 
